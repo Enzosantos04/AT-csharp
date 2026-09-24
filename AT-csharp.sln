@@ -52,6 +52,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09A.EstoqueArrays", "Parte05-ArraysArquivosERecursosAvancados\Ex09-ControleDeEstoque\VersaoA-Arrays\Ex09A.EstoqueArrays.csproj", "{0DDCDFDC-F3C2-426A-A40F-759034D3AF8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VersaoB-Arquivos", "VersaoB-Arquivos", "{186E2174-65A1-F315-DB2B-D07D1D665382}"
+	ProjectSection(SolutionItems) = preProject
+		Parte05-ArraysArquivosERecursosAvancados\Ex09-ControleDeEstoque\VersaoB-Arquivos\produtos,txt = Parte05-ArraysArquivosERecursosAvancados\Ex09-ControleDeEstoque\VersaoB-Arquivos\produtos,txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex09B.EstoqueArquivos", "Parte05-ArraysArquivosERecursosAvancados\Ex09-ControleDeEstoque\VersaoB-Arquivos\Ex09B.EstoqueArquivos.csproj", "{D780C662-CE5C-4032-A108-118A99EF1041}"
 EndProject
